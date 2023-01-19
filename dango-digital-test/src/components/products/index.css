@@ -1,0 +1,42 @@
+
+.list {
+    padding: 30px;
+}
+
+.form-field {
+    display: flex;
+    margin: 5px;
+}
+
+.form-field label {
+    width: 200px;
+    display: block;
+}
+.form-field input {
+    width: 200px;
+    display: block;
+}
+
+.list-body {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.list-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+table {
+    border: 1px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+}
